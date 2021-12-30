@@ -1,5 +1,5 @@
 # Social Media Dashboard <br>
- 🔹 Desafio da plataforma Front-End Mentor  👨‍🏫🎓 <br>
+ 🔹 Desafio da plataforma Front-End Mentor  👨‍🏫🎓 
 <br>
 <h4>A Challenge oficial você encontra nesse link <span>https://bit.ly/3mG75Xy</span></h4>
 🔸 Desenvolvido sem nenhum Framework, utilizei apenas HTML | CSS | JS .<br>
